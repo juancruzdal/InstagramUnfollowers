@@ -29,3 +29,9 @@ Follow these simple steps to install the extension in your browser:
 
 
 Enjoy enhancing your Instagram experience with **Easy InstagramUnfollowers**!
+
+## ⚖️ Legal & License
+
+**Disclaimer:** This tool is not affiliated, associated, authorized, endorsed by, or officially connected with Instagram.
+
+⚠️ Use at your own risk!
