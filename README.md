@@ -25,4 +25,7 @@ Follow these simple steps to install the extension in your browser:
 - Open Instagram (`https://www.instagram.com/`).
 - Click the extension icon in your toolbar to run the script.
 
+![image](https://github.com/user-attachments/assets/9cc183f3-d97b-484d-bea6-4c3ef48bf7e9)
+
+
 Enjoy enhancing your Instagram experience with **Easy InstagramUnfollowers**!
