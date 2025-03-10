@@ -1,6 +1,6 @@
 # Easy InstagramUnfollowers
 
-A Chrome extension to run custom scripts on Instagram with a single click.
+Easy extension to execute the IGUnfollowers js that works on every chromium browser (Chrome, Edge, Brave, etc)
 
 ## How to Install
 
